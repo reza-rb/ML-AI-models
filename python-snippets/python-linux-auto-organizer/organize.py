@@ -26,4 +26,3 @@ if __name__ == "__main__":
         print("Usage: python organize.py <folder_path>")
     else:
         organize_folder(sys.argv[1])
-
